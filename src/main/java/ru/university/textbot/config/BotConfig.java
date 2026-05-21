@@ -5,5 +5,5 @@ public class BotConfig {
     public static final String BOT_USERNAME = "LabJava5";
 
     // Токен, полученный от @BotFather
-    public static final String BOT_TOKEN = "8819188931:AAHUJcv8XSkjo9Ra3I1lXJumepOya7SILi0";
+    public static final String BOT_TOKEN = "Вставить_Токен_Сюда";
 }
