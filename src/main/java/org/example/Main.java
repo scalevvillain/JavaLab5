@@ -1,7 +1,9 @@
+
+            package ru.university.quizbot;
+
 import org.telegram.telegrambots.longpolling.TelegramBotsLongPollingApplication;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
-import ru.university.quizbot.QuizBot;
 import ru.university.quizbot.config.BotConfig;
 
 public class Main {
